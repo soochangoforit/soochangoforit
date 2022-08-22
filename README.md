@@ -5,7 +5,7 @@ My Major is Department of Computer Software Engineering since 2021
 
 I have project experience using **Java with Spring Boot**
 
-👉🏼It does not matter how slowly you go as long as you do not stop
+👉🏼It does not matter how slowly you go as long as you do not stop, so **Go For It**
 
 ### 🌟 Career
 
