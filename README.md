@@ -40,4 +40,4 @@ I have project experience using **Java with Spring Boot**
 
 ### 🌟 Algorithm
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tncksdl05)](https://solved.ac/tncksdl05)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tncksdl05)]()
