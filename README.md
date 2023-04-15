@@ -8,7 +8,8 @@ I have project experience using **Java with Spring Boot**
 👉🏼It does not matter how slowly you go as long as you do not stop keep going, so **Go For It**
 
 ### 🌟 Career
-
+- DND Server (23.1.4 ~ 23.3.4)
+- Depromeet Server (23.4.3 ~ now)
 
 ### 🌟 Languages & Stack
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" style=" margin-right: 20px; margin-bottom: 10px;"/></a>
