@@ -9,7 +9,7 @@ I have project experience using **Java with Spring Boot**
 
 ### 🌟 Career
 - DND 8th Server (23.1.4 ~ 23.3.4)
-- Depromeet 13th Server (23.4.3 ~ now)
+- Depromeet 13th Server (23.4.3 ~ 23.7.23)
 
 ### 🌟 Languages & Stack
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white" style=" margin-right: 20px; margin-bottom: 10px;"/></a>
